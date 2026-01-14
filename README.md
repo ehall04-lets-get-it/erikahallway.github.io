@@ -8,6 +8,6 @@ Key projects:
 - (Project 3 link) <br>
 
 Skills <br>
-[Resume](https://ehall04-lets-get-it.github.io/ErikaHall_Resume.pdf/) <br>
+[Resume](https://ehall04-lets-get-it.github.io/erikahallway.github.io/ErikaHall_Resume.pdf) <br>
 [LinkedIn](https://www.linkedin.com/in/erika-r-hall/) <br>
 phone: 512-635-2441, email: erikahallway@gmail.com <br>
