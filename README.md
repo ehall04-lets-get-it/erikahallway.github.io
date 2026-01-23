@@ -1,18 +1,17 @@
-# erikahallway.github.io
+## Erika Hall, AI/ML Engineer <br>
+Hands-on experience building solutions using NLP, RAG, and LLM technology. Collaborative problem solver who is eager to expand on experience implementing emerging AI/ML and MLOps techniques. <br>
+**phone:** 512-635-2441, **email:** erikahallway@gmail.com <br>
 
-Erika Hall, AI/ML Engineer <br>
-AI/ML Engineer with hands-on experience building solutions using NLP, RAG, and LLM technology. Collaborative problem solver who is eager to expand on experience implementing emerging AI/ML and MLOps techniques. <br>
-Key projects: 
-- BPA Parser: link  
-- Quality Documentation sythesizer: link
-- (Project 3 link) <br>
+### Key projects:
+- Project 1 (Example): ML Pipeline
+- -  Built an end-to-end training + inference pipeline using PyTorch. *Link to GitLab repo*
+- Project 2 (Example): RAG Model + GenAI
+- - Developed a prototype app implementing RAG and GenAI to synthesize document information for new uses. *Link to GitLab repo*
+- Project 3 (Example): Phonetics and CNN <br>
+- Created an accent analyzer comparing speaker's current vs. desired accent via CNN models. *Link to GitLab repo*
 
-Skills: 
-- Languages/Frameworks: Python, LangChain, OpenAI APIs, NLTK, OpenCV, PyTorch, TensorFlow, Streamlit 
-- DevOps/MLOps: Harbor, OpenShift, GitLab CI/CD, Flyte
-- Software: Git, VSCode, JupyterLab, Domino Data Lab, Microsoft Office, SharePoint, Confluence, Astris AI  
-- Professional: Stakeholder Engagement, Workshop Facilitation, Presentation Design <br>
-
+### Further Info
 [Resume](https://ehall04-lets-get-it.github.io/erikahallway.github.io/ErikaHall_Resume.pdf) <br>
+[GitLab]()
 [LinkedIn](https://www.linkedin.com/in/erika-r-hall/) <br>
-phone: 512-635-2441, email: erikahallway@gmail.com <br>
+
