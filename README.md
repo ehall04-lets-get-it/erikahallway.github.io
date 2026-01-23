@@ -12,6 +12,6 @@ Hands-on experience building solutions using NLP, RAG, and LLM technology. Colla
 
 ### Further Info
 [Resume](https://ehall04-lets-get-it.github.io/erikahallway.github.io/ErikaHall_Resume.pdf) <br>
-[GitLab]()
+[GitLab](https://gitlab.com/erika_rhall) <br>
 [LinkedIn](https://www.linkedin.com/in/erika-r-hall/) <br>
 
