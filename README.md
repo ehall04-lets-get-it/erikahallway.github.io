@@ -1,5 +1,5 @@
 ## Erika Hall, AI/ML Engineer <br>
-Hands-on experience building solutions using NLP, RAG, and LLM technology. Collaborative problem solver who is eager to expand on experience implementing emerging AI/ML and MLOps techniques. <br>
+Collaborative problem solver with hands-on experience building solutions using NLP, RAG, and LLM technology. Language and math enthusiast who is eager to expand on knowledge of implementing emerging AI/ML and MLOps techniques. <br>
 **phone:** 512-635-2441, **email:** erikahallway@gmail.com <br>
 
 ### Key projects:
